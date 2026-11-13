@@ -99,7 +99,7 @@ Additional tools such as Excel, Power Query, and DAX can be included where used 
 
 ### Mumbai E-Waste Management Dashboard
 
-[Mumbai E-Waste Management Dashboard](screenshots/ewaste-dashboard-overview.png)
+[Mumbai E-Waste Management Dashboard](dashboard.png)
 
 ## Project Domain
 
